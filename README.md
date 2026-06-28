@@ -13,6 +13,41 @@ Interested in:
 - Performance
 - Clean Code
 - DevOps
+
+Languages
+• PHP
+• Dart
+• JavaScript
+• SQL
+
+Backend
+• Laravel
+• REST API
+• Sanctum
+• Queues
+• Redis
+• WebSockets
+
+Mobile
+• Flutter
+• Provider
+• Riverpod
+
+Database
+• MySQL
+• PostgreSQL
+
+Cloud
+• AWS
+• Docker
+• Nginx
+• Linux
+
+Tools
+• Git
+• GitHub
+• Postman
+• Figma
 ____________________________________________________________________________________________________________
 ## Tech Stack
 

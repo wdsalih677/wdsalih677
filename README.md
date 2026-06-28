@@ -7,4 +7,4 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wdsalih677&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=wdsalih677)
